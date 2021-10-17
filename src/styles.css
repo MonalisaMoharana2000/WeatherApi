@@ -1,0 +1,43 @@
+.city {
+  background-color: #f6f1f4;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+.weather {
+  background-image: linear-gradient(to right, #6e3f98, #a37697);
+  height: 300px;
+  width: 55%;
+  border-radius: 10px;
+  display: inline-block;
+}
+.details {
+  background-image: linear-gradient(to left, #6e3f98, #a37697);
+  height: 300px;
+  width: 40%;
+  border-radius: 10px;
+  display: inline-block;
+  margin-left: 3%;
+}
+.content-inner {
+  display: inline-block;
+  color: white;
+  width: 50%;
+}
+.right-side {
+  text-align: center;
+}
+.container-inner {
+  padding: 30px;
+}
+.primary {
+  font-size: 25px;
+}
+.secondary {
+  font-size: 13px;
+}
+.temp {
+  font-size: 90px;
+}
